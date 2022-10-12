@@ -25,7 +25,7 @@ The Code of Ethics is the highest authoritative document which holds both inform
 :::
 
 :::info
-Please note, the numerical offenses listed within each conduct code serve as a guide that the Ethics Committee will utilize when issuing a reprimand. Reprimands are decided on a case-by-case basis and are not preliminarily determined.
+The numerical offenses listed within each conduct code serve as a guide that the Ethics Committee will utilize when issuing a reprimand. Reprimands are decided on a case-by-case basis and are not preliminarily determined.
 :::
 
 
