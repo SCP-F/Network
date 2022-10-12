@@ -25,6 +25,11 @@ The Code of Ethics is the highest authoritative document which holds both inform
 :::
 
 :::info
+Please note, the numerical offenses listed within each conduct code serve as a guide that the Ethics Committee will utilize when issuing a reprimand. Reprimands are decided on a case-by-case basis and are not preliminarily determined.
+:::
+
+
+:::info
 Only the following groups are exempt from the Code of Ethics; <Highlight color="#686868">**Founders**</Highlight>, and <Highlight color="#070707">**O5 Council**</Highlight>
 
 *Though while these groups are* ***exempt*** *from the Code of Ethics, excessive misbehavior should be reported to the individual's superiors.* ***Reports of misbehavior will be handled on a case-by-case basis.***
