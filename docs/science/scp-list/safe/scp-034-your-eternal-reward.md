@@ -1,6 +1,6 @@
 ---
-title: SCP-034 "Your Eternal Reward"
-sidebar_label: SCP-034 "Your Eternal Reward"
+title: SCP-034 "The Kinfe"
+sidebar_label: SCP-034 "The Knife"
 ---
 
 export const Center = ({children}) => (
@@ -44,8 +44,5 @@ Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
 
 <br/>
 
-```
-$ SCPF_NETWORK/PARAGON/DATABASE/SCP-034
-$ RESULT :: NO CURRENTLY KNOWN INFORMATION
-```
+**SCP-034, known as "The Knife"**, is a dagger constructed out of obsidian. Despite it's unknown age, the tip of the knife remains extremely sharp. Upon being stabbed by the knife, the individual holding the knife will gain the appearance and clothing of the victim. All physical and mental characteristics are an exact copy, and the difference between a clone and the original is near indistinguishable. Due to this, SCP-034 is to be contained with the Loading Bay and will be used for official purposes only. The properties of the knife are still unknown, and testing has yet to prove it's full range of capability.
 
